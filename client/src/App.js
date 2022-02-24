@@ -1,9 +1,9 @@
 import './App.css';
-import ButtonComponent from 'src/components/button/ButtonComponent';
+import Main from 'src/pages/Main';
 
 const App = () => (
   <div className="App">
-    <ButtonComponent />
+    <Main />
   </div>
 );
 

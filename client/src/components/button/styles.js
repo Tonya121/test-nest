@@ -3,13 +3,7 @@ import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import styleConsts from 'src/utils/styleConsts';
 
-export const Wrapper = styled.div`
-  width: 100%;
-  padding-top: 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-`;
+
 
 export const Section = styled.div`
   display: flex;
